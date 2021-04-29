@@ -12,4 +12,5 @@ Correlation Analysis
       Pearson ceoff and p values are used to pick features for each location 
       Columns with low correlation and significance are dropped Ex - 'arrival_date_year','arrival_date_month'
       Columns with direct correlation are dropped to avoid model overfit Ex - 'reservation_status','reservation_status_date'
-      
+Features       
+	Chosen feature list are saved for each location 
